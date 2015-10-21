@@ -1,0 +1,25 @@
+{
+  "name": "Puzzle-for-fun",
+  "version": "1.0.0",
+  "description": "puzzle for fun",
+  "main": "index.html",
+  "dependencies": {
+    "less-loader": "^2.2.1",
+    "style-loader": "^0.12.4",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forthedamn/Puzzle-for-fun.git"
+  },
+  "author": "zhongguoxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forthedamn/Puzzle-for-fun/issues"
+  },
+  "homepage": "https://github.com/forthedamn/Puzzle-for-fun"
+}
